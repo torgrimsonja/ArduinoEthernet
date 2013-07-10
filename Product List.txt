@@ -1,0 +1,15 @@
+http://www.adafruit.com/
+http://www.mouser.com/
+
+
+Need:
+Ethernet Shield / Arduino with Ethernet capability
+
+Spec 1:
+Arduino UNO (already have) get Ethernet Shield
+http://www.mouser.com/ProductDetail/Arduino/A000072/?qs=sGAEpiMZZMt0re6d%252b2Rx9u2c0ICgtp9Z
+
+
+Spec 2:
+Arduino Uno with Ethernet get USB
+http://www.adafruit.com/products/418
