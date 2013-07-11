@@ -2,5 +2,12 @@ Arduino Webserver Tutorial for software:
 
 1. http://arduino.cc/en/Tutorial/WebServerd
 
-2. 
+2. http://www.instructables.com/id/ServDuino-Arduino-Webserver/
+
+
+Helpfull Articles: 
+
+1. http://arduino.cc/en/Reference/Ethernet
+
+2. http://startingelectronics.com/tutorials/arduino/ethernet-shield-web-server-tutorial/basic-web-server/
 
