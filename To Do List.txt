@@ -5,11 +5,11 @@ as little rerrors as possible.
 
 Hardware:
 Get both ethernet and wireless connectivity shields for the arduino system so we can:
-have arduinos where there are no ethernet ports. 
-get more flexibility on where we may be able to place the arduinos.
+Have arduinos where there are no ethernet ports. 
+Get more flexibility on where we may be able to place the arduinos.
 
 Programming:
-We will either have to find code or program it. if we are able to find code that works and then fine taylor
+We will either have to find code or program it. If we are able to find code that works and then fine taylor
 it to our needs that might be a more reliable way to do it rather than starting from scratch.
 The arduinos will have to be able to remain connected to the internet and have the ability to push data to a 
 live feed scrolling graph on the internet so the input is able to be seen real time in an HTML webpage.
